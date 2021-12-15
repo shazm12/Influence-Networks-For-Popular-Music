@@ -10,7 +10,7 @@ In this project, I will be performing an analysis of the taste of the listeners 
 
 # Base Paper
 
-CS224W Final Report: Influence Networks in Popular Music Marco Alban, Vivek Choksi, Stephanie Tsai, Stanford CS Department. Link
+CS224W Final Report: Influence Networks in Popular Music Marco Alban, Vivek Choksi, Stephanie Tsai, Stanford CS Department. [Link](http://snap.stanford.edu/class/cs224w-2015/projects_2015/Influence_Networks_in_Popular_Music.pdf)
 
 
 # Dataset Used
