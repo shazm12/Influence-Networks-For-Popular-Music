@@ -4,9 +4,9 @@ In this project, I will be performing an analysis of the taste of the listeners 
 
 # Keywords
 
-BillBoard - Billboard is an American music and entertainment magazine published weekly by the Billboard-Hollywood Reporter Media Group, a division of MRC Media & Info. The magazine provides music charts, news, video, opinion, reviews, events, and style related to the music industry.
+**BillBoard** - Billboard is an American music and entertainment magazine published weekly by the Billboard-Hollywood Reporter Media Group, a division of MRC Media & Info. The magazine provides music charts, news, video, opinion, reviews, events, and style related to the music industry.
 
-Spotify - Spotify is a Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is the world's largest music streaming service provider, with over 381 million monthly active users, including 172 million paying subscribers, as of September 2021.
+**Spotify** - Spotify is a Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is the world's largest music streaming service provider, with over 381 million monthly active users, including 172 million paying subscribers, as of September 2021.
 
 # Base Paper
 
